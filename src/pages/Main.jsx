@@ -2,7 +2,10 @@ import styled from 'styled-components';
 import MassageCartoon from '../images/massage-cartoon.png';
 
 const MainDescription = styled.div`
-position: relative;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
 max-width: 60vw;
 margin: 8rem auto 4rem;
 padding: 1.3rem;
@@ -10,7 +13,6 @@ background-color: #fff;
 border-radius: 8px;
 box-shadow: 10px 10px 25px 0px rgba(0,0,0,0.75);
 text-align: justify;
-overflow: visible;
 }
 
   h1 {
@@ -23,12 +25,8 @@ overflow: visible;
   }`;
 
 const Images = styled.img`
-  top: -3.125rem;
-  right: 33%;
-  position: absolute;
-  max-height: 25%;
-  max-width: 100%;
-  margin-right: 6.25rem;
+  height: auto;
+  width: 10em;
 `;
 
 export default function Main() {

@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 import logo from '../images/logo.webp';
-import faFacebook from '../images/faA/facebook.svg';
-import faInstagram from '../images/faA/instagram.svg';
-import faGitHub from '../images/faA/github.svg';
+import faFacebook from '../images/facebook.svg';
+import faInstagram from '../images/instagram.svg';
+import faGitHub from '../images/github.svg';
 import FormEmail from './FormEmail';
 
 const StyledParagraph = styled.p`

@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 import { useState, useEffect } from 'react';
 import { CAROUSEL_DATA } from '../carouselData.js';
-import arrowRight from '../images/faA/arrow-right.svg';
-import arrowLeft from '../images/faA/arrow-left.svg';
+import arrowRight from '../images/arrow-right.svg';
+import arrowLeft from '../images/arrow-left.svg';
 import CarouselButton from './CarouselButton.jsx';
 
 const Carouseldiv = styled.nav`

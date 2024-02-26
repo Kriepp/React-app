@@ -1,7 +1,7 @@
-import TherapeuticMassage from '../images/therapeutic-massage.png';
-import RelaxingMassage from '../images/relaxing-massage.png';
-import Anticelulitic from '../images/anticelulitic-massage.png';
-import Drenaj from '../images/drenaj-limfatic.png';
+import TherapeuticMassage from './images/therapeutic-massage.png';
+import RelaxingMassage from './images/relaxing-massage.png';
+import Anticelulitic from './images/anticelulitic-massage.png';
+import Drenaj from './images/drenaj-limfatic.png';
 
 export const MASSAGE_TYPES = {
   Therapeutic: {

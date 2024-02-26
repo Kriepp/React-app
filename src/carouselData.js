@@ -1,7 +1,7 @@
-import Photo1 from '../images/Carousel/pexels1.jpg';
-import Photo2 from '../images/Carousel/pexels2.jpg';
-import Photo3 from '../images/Carousel/pexels3.jpg';
-import Photo4 from '../images/Carousel/pexels4.jpg';
+import Photo1 from './images/carousel/pexels1.jpg';
+import Photo2 from './images/carousel/pexels2.jpg';
+import Photo3 from './images/carousel/pexels3.jpg';
+import Photo4 from './images/carousel/pexels4.jpg';
 
 export const CAROUSEL_DATA = [
   {

@@ -68,7 +68,7 @@ const ButtonMenu = styled.menu`
 `;
 
 const UserInputDiv = styled.div`
-  min-height: 21rem;
+  min-height: 25rem;
   position: relative;
   max-width: 65vw;
   margin: 1rem auto;
